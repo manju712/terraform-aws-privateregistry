@@ -1,2 +1,1 @@
-# terraform-aws-test-private-registry
-This repository is to learn pushing of the modules to private registry. 
+This is a sample code which shows how the public module can be used to launch vpc, security group and ec2 instance. 
