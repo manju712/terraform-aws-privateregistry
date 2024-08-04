@@ -10,7 +10,7 @@ module "vpc" {
   version = "5.5.1"
 
   name = "public-module-vpc"
-  cidr = "10.53.0.0/16"
+  cidr = "10.52.0.0/16"
   azs  = ["ap-south-1a", "ap-south-1b", "ap-south-1c"]
   vpc_tags = {
     Name = "public-module-vpc"
